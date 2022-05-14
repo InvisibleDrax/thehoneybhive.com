@@ -1,8 +1,21 @@
+body {
+    background-color: #FFF56D;
+    margin: 0;
+}
+
 .header {
     text-align: center;
+    margin: 0;
 }
 
 .subheader {
     text-align: center;
     color: gray;
+    margin: 0;
+}
+
+#top-sect {
+    padding: 40px;
+    background-color: #FFD36E;
+    margin: 0;
 }
